@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "05CE6085-80ED-45FC-ACF5-4357F770EE04"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CF32AEA-F82F-4561-8F88-B74CDB8DF514"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test-mobile-ios/Api/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "downloadData(fromURL:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CF32AEA-F82F-4561-8F88-B74CDB8DF514 - 592eaa52d0ca55ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "6CF32AEA-F82F-4561-8F88-B74CDB8DF514 - de4b9e28e24669cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "2164">
+               </Location>
+               <Location
+                  uuid = "6CF32AEA-F82F-4561-8F88-B74CDB8DF514 - 92d915f3ed1b8633"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCACE282-207D-4E73-9BB1-C29E10F279CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test-mobile-ios/Api/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "downloadData(fromURL:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCACE282-207D-4E73-9BB1-C29E10F279CB - 592eaa52d0ca5634"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "DCACE282-207D-4E73-9BB1-C29E10F279CB - de4b9e28e2466a32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "2376">
+               </Location>
+               <Location
+                  uuid = "DCACE282-207D-4E73-9BB1-C29E10F279CB - 92d915f3ed1b85cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98DB47CF-D361-483E-B581-EEC21BF46E9A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test-mobile-ios/Api/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "downloadData(fromURL:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98DB47CF-D361-483E-B581-EEC21BF46E9A - 592eaa52d0ca5676"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "98DB47CF-D361-483E-B581-EEC21BF46E9A - de4b9e28e2466a70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "2588">
+               </Location>
+               <Location
+                  uuid = "98DB47CF-D361-483E-B581-EEC21BF46E9A - 92d915f3ed1b858f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B04E2B6-AC46-4A19-A85B-A6EEBBF581DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test-mobile-ios/Api/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "downloadData(fromURL:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B04E2B6-AC46-4A19-A85B-A6EEBBF581DA - 592eaa52d0ca56b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+               <Location
+                  uuid = "4B04E2B6-AC46-4A19-A85B-A6EEBBF581DA - de4b9e28e2466ab6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2800">
+               </Location>
+               <Location
+                  uuid = "4B04E2B6-AC46-4A19-A85B-A6EEBBF581DA - 92d915f3ed1b8549"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AE817DA-9B52-4752-BF71-6F0880E33440"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test-mobile-ios/Api/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "downloadData(fromURL:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8AE817DA-9B52-4752-BF71-6F0880E33440 - 592eaa52d0ca56f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1792">
+               </Location>
+               <Location
+                  uuid = "8AE817DA-9B52-4752-BF71-6F0880E33440 - de4b9e28e2466af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "3084">
+               </Location>
+               <Location
+                  uuid = "8AE817DA-9B52-4752-BF71-6F0880E33440 - 92d915f3ed1b850b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for test_mobile_ios.WebService.downloadData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(fromURL: Swift.String) async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "test-mobile-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andri/Desktop/test-mobile-ios/test-mobile-ios/Api/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02B81806-8D88-4EE5-969A-C59EAB30D520"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test-mobile-ios/Api/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "downloadData(fromURL:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29F9994A-BC11-494F-AA3F-CDCF70CF31FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test-mobile-ios/Api/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "downloadData(fromURL:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
